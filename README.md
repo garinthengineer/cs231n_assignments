@@ -6,5 +6,5 @@
 правильный ответ. Во-вторых, еще никто не публиковал решения на русском. Почему я и поспешил заполнить этот пробел.
 
 ## Задание номер 1
-### Текст задания (http://cs231n.github.io/assignments2017/assignment1/)
-### Решение (https://garinthengineer.github.io/cs231n_assignments/assignment1/knn.html)
+Текст задания [http://cs231n.github.io/assignments2017/assignment1/](http://cs231n.github.io/assignments2017/assignment1/) <br />
+Решение [https://garinthengineer.github.io/cs231n_assignments/assignment1/knn.html](https://garinthengineer.github.io/cs231n_assignments/assignment1/knn.html)
