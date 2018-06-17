@@ -13,4 +13,4 @@
 ## Задание номер 2
 #### Q1: Fully-connected Neural Network (20 points)
 The IPython notebook FullyConnectedNets.ipynb will introduce you to our modular layer design, and then use those layers to implement fully-connected networks of arbitrary depth. To optimize these models you will implement several popular update rules.
-Рушение
+Рушение в папке assignment2
